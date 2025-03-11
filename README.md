@@ -1,5 +1,3 @@
-<div style="text-align:center">This text will be centered.</div>
+<h2><p align="center">test</p>  </h2>   
 
----
-
-Content.
+Testing repository.
